@@ -141,4 +141,9 @@ footer p {
     align-items: center;
   }
 
+  header nav ul {
+    align-items: center;
+    flex-wrap: wrap;
+  }
+
 }
